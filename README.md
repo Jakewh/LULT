@@ -1,4 +1,4 @@
-# LULT - Linux Unreal Localization Tool 🇬🇧
+# <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/6bbb4900-9ab0-48fc-9a1c-2d940547c9c4" /> LULT - Linux Unreal Localization Tool 🇬🇧
 
 LULT is a desktop GUI application for Linux that simplifies the Unreal Engine localization workflow over `.pak`, `.locres` and `.csv` files using repack and unreallocres.
 
@@ -77,7 +77,8 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE).
 
 
 ##
-# LULT - Linux Unreal Localization Tool 🇨🇿
+
+# <img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/6bbb4900-9ab0-48fc-9a1c-2d940547c9c4" /> LULT - Linux Unreal Localization Tool 🇨🇿
 
 LULT je desktopová GUI aplikace pro Linux, která zjednodušuje lokalizační workflow Unreal Engine nad soubory `.pak`, `.locres` a `.csv` pomocí aplikací repack a unreallocres.
 
