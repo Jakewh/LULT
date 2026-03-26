@@ -9,8 +9,9 @@ Main workflow:
 4. Repack into a new output archive (`*_P.pak`)
 
 <img width="927" height="937" alt="obrazek" src="https://github.com/user-attachments/assets/c70e6f29-5a3d-46e9-b386-2222358305c7" />
+Link to Appimage -> https://drive.google.com/file/d/1o57IIsgzk4akTY7xz7kW5yDNREtZyxbs/view?usp=sharing
 
-
+Link to source archive -> https://drive.google.com/file/d/1vovNUZRcH9Cm-Q6TpNoeRRFy0ddk3GeW/view?usp=sharing
 
 Czech README: see [README.cz.md](README.cz.md)
 
@@ -88,7 +89,9 @@ Hlavní workflow:
 4. Přepakování do nového výstupního archivu (`*_P.pak`)
 
 <img width="925" height="932" alt="obrazek" src="https://github.com/user-attachments/assets/6aeacbff-011c-4dcb-905f-a06fb867beb9" />
+Odkaz na Appimage -> https://drive.google.com/file/d/1o57IIsgzk4akTY7xz7kW5yDNREtZyxbs/view?usp=sharing
 
+Odkaz na zdrojový archív -> https://drive.google.com/file/d/1vovNUZRcH9Cm-Q6TpNoeRRFy0ddk3GeW/view?usp=sharing
 
 English README: viz [README.md](README.md)
 
